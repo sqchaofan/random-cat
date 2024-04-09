@@ -32,7 +32,7 @@ const IndexPage: NextPage<Props> = ({ initialImageUrl }) => {
           </div>
         </Card.Section>
 
-        <Button fullWidth mt="md" radius="md" onClick={handleClick}>他の猫も見る!</Button>
+        <Button fullWidth mt="md" radius="md" onClick={handleClick}>他の猫も見る</Button>
       </Card>
     </Container>
   );
